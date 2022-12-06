@@ -5,7 +5,7 @@ declare(strict_types=1);
 1.
 - Patogioje vietoje susikurkite katalogą, kuriame talpinsite šios kurso dalies failus​
 - Atsidarykite jį su kodo editoriumi
-- Kodo editoriaus failų naršyklėje susikurkite subdirektoriją 'test' bei failą joje - 'test.txt'.
+- Kodo editoriaus failų naršyklėje susikurkite subdirektoriją 'test' bei failą joje - 'test.php'.
 Faile parašykite tekstą 'Hello world' ir išsaugokite​
 - Atsidarykite į kodo editorių integruotą terminalą - naudokite Git Bash​ (jeigu naudojate VS Code)
 - Pasitikrinkite, kurioje direktorijoje veikia terminalas.
