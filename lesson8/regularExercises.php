@@ -12,8 +12,8 @@ $someProducts = [
     ',
 ];
 
-//function exercise5(array $products): int
-function exercise5(array $products)
+//function exercise1(array $products): int
+function exercise1(array $products)
 {
     /*
     Suskaičiuokite ir grąžinkite visų $products masyve esančių eilučių ilgių sumą, BET
@@ -22,7 +22,7 @@ function exercise5(array $products)
     */
 }
 
-function exercise1(): array
+function exercise2(): array
 {
     /*
     Išskaidykite $longLine kintamajį į atskirus žodžius. Žodžiai turi grįžti iš funkcijos masyvo formoje.
@@ -33,7 +33,7 @@ function exercise1(): array
     return [];
 }
 
-function exercise2(): array
+function exercise3(): array
 {
     /*
     Grąžinkite masyvą, kuris talpintų tik tuos žodžius, kurie panašūs į emailų adresus
@@ -50,7 +50,7 @@ function exercise2(): array
     return [];
 }
 
-function exercise3(array $products): int
+function exercise4(array $products): int
 {
     /*
     Suskaičiuokite ir grąžinkite visų $products masyve esančių eilučių ilgių sumą.
@@ -79,7 +79,7 @@ function exercise4(): array
     return [];
 }
 
-function exercise5(array $products): int
+function exercise6(array $products): int
 {
     /*
     Suskaičiuokite ir grąžinkite visų $products masyve esančių eilučių ilgių sumą, BET
@@ -90,7 +90,7 @@ function exercise5(array $products): int
     return 0;
 }
 
-function exercise6(): int
+function exercise7(): int
 {
     $text = 'The African philosophy of Ubuntu has its roots in the Nguni word for being human.
     The concept emphasises the significance of our community and shared humanity and teaches
