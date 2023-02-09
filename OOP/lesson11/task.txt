@@ -18,7 +18,7 @@ Sukurkite klases:
 Sugeneruokite composer.json, panaudokite autoloader'į.
 Sukonfigūruokite composer, kad nukreiptų MyProject namespace į src/ folderį (psr-4)
 
-Panaudokite atnaujintą Dependency Injection konteinerį https://raw.githubusercontent.com/marius321967/vigi-24-oop/main/l10/2_smarter_container.php
+Panaudokite atnaujintą Dependency Injection konteinerį https://github.com/CodeAcademyPHP/PHPIntroVIGI/blob/master/OOP/lesson11/container.php
 Kad būtų aiškiau, klasę pervadinkite Container -> DIContainer
 
 1.2
